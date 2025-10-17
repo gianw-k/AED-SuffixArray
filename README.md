@@ -1,5 +1,4 @@
-# Estructura de datos para gestionar eficientemente diccionarios
-
+# Estructura de datos
 ## Integrantes: 
 - 1 Gian Aedo
 - 2 Ariana Blanco
